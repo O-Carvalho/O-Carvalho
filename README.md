@@ -9,12 +9,12 @@
 <ul> 
 <li>🎓 Sou Estudante de Ciências da computação em <b>Jundiai,São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></b>;</li> 
 <li>🚀 Tambem estou aprendendo <a> Node.JS, React, React Native, Typescript, Git e Notion. </a></li> 
-<li>😊 Fã da Musculação,Séries e Café;</li> 
+<li>😊 Fã de Musculação,Séries e Café;</li> 
  
 </ul> 
  
  
-<blockquote> “Se teus sonhos não te assustam, eles não são grandes o suficiente!”</blockquote> 
+<blockquote> “Se teus sonhos não te assustam, eles não são grandes o suficiente”</blockquote> 
  
 --- 
  
