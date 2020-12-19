@@ -1,4 +1,4 @@
- <h1>  Olá, sou O-Carvalho ou se preferir Matheus! <img src="https://emojis.slackmojis.com/emojis/images/1598266360/10254/pepe_naruto.gif?1598266360" width="25"/> </h1>  
+ <h1>  Olá, sou O-Carvalho ou se preferir Matheus! </h1>  
 
 <img src="https://media1.tenor.com/images/690ad4eb5f402d15421bf2c1e9f26271/tenor.gif?itemid=4531486" align="right" width="300"/> 
 
