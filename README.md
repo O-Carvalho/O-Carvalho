@@ -2,7 +2,7 @@
  
  <div>
 
- <img src="https://media1.tenor.com/images/690ad4eb5f402d15421bf2c1e9f26271/tenor.gif?itemid=4531486" align="right" width="250"/> 
+ <img src="https://media1.tenor.com/images/690ad4eb5f402d15421bf2c1e9f26271/tenor.gif?itemid=4531486" align="right" width="230"/> 
 
  <a href="https://www.linkedin.com/in/o-carvalho"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  <a href="https://www.instagram.com/_krvalho"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
