@@ -1,26 +1,69 @@
- <h1 align="center">  Sou O-Carvalho ou se preferir Matheus! </h1>  
+![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=O-Carvalho.O-Carvalho)
+
+ <!-- GIF -->
+ <img src="https://media1.tenor.com/images/690ad4eb5f402d15421bf2c1e9f26271/tenor.gif?itemid=4531486" align="right" width="320" height="250" /> 
  
- <div>
-
- <img src="https://media1.tenor.com/images/690ad4eb5f402d15421bf2c1e9f26271/tenor.gif?itemid=4531486" align="right" width="230"/> 
-
- <a href="https://www.linkedin.com/in/o-carvalho"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- <a href="https://www.instagram.com/_krvalho"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
- <a href="mailto:contato.perbelini@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
-
- <ul> 
-   <li>Sou Estudante de Ciências da computação em <b>Jundiai,São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></b>;</li> 
-   <li>Tambem estou aprendendo <a> Node.JS, React e Typescript. </a></li> 
-   <li>Fã de musculação e café, muito café...</li> 
- </ul> 
+<!-- Nome -->
+ <div align="center">
+ <h1> 
+ <a href="https://fontmeme.com/cuphead-font/"><img src="https://fontmeme.com/permalink/210702/ea29df7970facb8922f70ca4bfa49ae3.png" alt="cuphead-font" border="0">
+ </a>
+ </h1>  
  </div>
  
-<div align="center">
-   <h1 align="center"> Meus Conhecimentos </h1>
-    <p> 
-     <img src="https://emojis.slackmojis.com/emojis/images/1470343792/719/html5.png?1470343792" width="40"/> 
-     <img src="https://emojis.slackmojis.com/emojis/images/1497185511/2411/css.jpg?1497185511" width="50"/> 
-     <img src="https://emojis.slackmojis.com/emojis/images/1450441296/151/javascript.png?1450441296" width="40"/> 
-     <img src="https://emojis.slackmojis.com/emojis/images/1580783631/7685/git.png?1580783631" width="40"/> 
+ <!-- rede social -->
+ <div>
+  <p align="center">
+   <a href="https://www.linkedin.com/in/o-carvalho"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.instagram.com/_krvalho"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   <a href="mailto:contato.perbelini@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
+  </p>
+
+ <!-- Descrição -->
+  <ul> 
+    <li>Sou um admirador da tecnologia e muito dedicado em criar maneiras de facilitar aquelas tarefas do cotidiano das pessoas.</li>
+    <li>Sou Estudante de Ciências da computação em <b>Jundiai,São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></b>;</li>
+    <li>Fã de musculação e café, muito café...</li> 
+  </ul> 
+ </div>
+ 
+<br>
+ <!-- Meus Conhecimentos -->
+ <div align="center">
+  <h1 align="center">
+   <a href="https://fontmeme.com/cuphead-font/"><img src="https://fontmeme.com/permalink/210702/aa69b64099c2494a55386cec323375ab.png" alt="cuphead-font" border="0">      </a>
+  </h1>
+ </div>
+ 
+ <br>
+ <!-- Icon Tecnologias -->
+ <div>
+    <p align="center"> 
+     <!-- HTML -->
+     <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png" width="40"/>&nbsp;
+     <!-- CSS -->
+     <img src="https://user-images.githubusercontent.com/35739995/122655003-80cf5a80-d125-11eb-9718-c0d416a29986.png" width="40"/>&nbsp;
+     <!-- Javascript -->
+     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="40"/>&nbsp;
+     <!-- Typescript -->
+     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" width="40"/>&nbsp;
+     <!-- React -->
+     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original-wordmark.svg" width="40"/>&nbsp;
+     <!-- GIT -->
+     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="40"/>&nbsp;
     </p> 
+ 
 </div>
+
+<!-- Blocos -->
+<table align="center">
+ <row>
+   <td>
+     <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=O-Carvalho&layout=compact&theme=vision-friendly-dark'>
+   </td>
+   <td>
+     <img height='172' src='https://github-readme-stats.vercel.app/api?username=O-Carvalho&show_icons=true&theme=vision-friendly-dark'>
+   </td>
+ </row>
+</table>
+  
