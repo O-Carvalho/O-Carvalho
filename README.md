@@ -1,8 +1,5 @@
 ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=O-Carvalho.O-Carvalho)
 
- <!-- GIF -->
- <img src="https://media1.tenor.com/images/690ad4eb5f402d15421bf2c1e9f26271/tenor.gif?itemid=4531486" align="right" width="320" height="250" /> 
- 
 <!-- Nome -->
  <div align="center">
  <h1> 
@@ -21,9 +18,11 @@
 
  <!-- Descrição -->
   <ul> 
-    <li>Sou um admirador da tecnologia e muito dedicado em criar maneiras de facilitar aquelas tarefas do cotidiano das pessoas.</li>
-    <li>Sou Estudante de Ciências da computação em <b>Jundiai,São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></b>;</li>
-    <li>Fã de musculação e café, muito café...</li> 
+    <li>
+		Sou um admirador da tecnologia e muito dedicado em criar maneiras de facilitar aquelas tarefas do cotidiano das pessoas.
+    Estudo Ciências da computação em <b>Jundiai,São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></b>;
+    e tenho muito interesse em front-end e tambem UI Design, atualmente estudando ReactJS, Typescript e NodeJS !
+		</li>
   </ul> 
  </div>
  
@@ -61,9 +60,5 @@
    <td>
      <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=O-Carvalho&layout=compact&theme=vision-friendly-dark'>
    </td>
-   <td>
-     <img height='172' src='https://github-readme-stats.vercel.app/api?username=O-Carvalho&show_icons=true&theme=vision-friendly-dark'>
-   </td>
  </row>
 </table>
-  
