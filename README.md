@@ -12,7 +12,6 @@
  <div>
   <p align="center">
    <a href="https://www.linkedin.com/in/o-carvalho"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.instagram.com/_krvalho"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="mailto:contato.perbelini@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
   </p>
 
