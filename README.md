@@ -10,7 +10,7 @@
  
  <!-- PNG -->
  <div>
-   <img src="https://image.flaticon.com/icons/png/512/1055/1055666.png" width="200" align="right"/>
+   <img src="https://image.flaticon.com/icons/png/512/1055/1055666.png" width="185" align="right"/>
  </div>
  
  <!-- rede social -->
