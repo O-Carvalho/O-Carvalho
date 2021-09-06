@@ -8,9 +8,14 @@
  </h1>  
  </div>
  
+ <!-- PNG -->
+ <div>
+   <img src="https://image.flaticon.com/icons/png/512/1055/1055666.png" width="200" align="right"/>
+ </div>
+ 
  <!-- rede social -->
  <div>
-  <p align="center">
+  <p align="left">
    <a href="https://www.linkedin.com/in/o-carvalho"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:contato.perbelini@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
   </p>
@@ -53,7 +58,7 @@
 <table align="center">
  <row>
    <td>
-     <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=O-Carvalho&layout=compact&theme=vision-friendly-dark'>
+     <img height='190' src='https://github-readme-stats.vercel.app/api/top-langs/?username=O-Carvalho&layout=compact&theme=vision-friendly-dark'>
    </td>
  </row>
 </table>
