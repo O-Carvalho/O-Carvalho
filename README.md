@@ -22,7 +22,7 @@
 
  <!-- Descrição -->
   <p>Sou um admirador da tecnologia e muito dedicado em criar maneiras de facilitar aquelas tarefas do cotidiano das pessoas.<br>
-    Estudo Ciências da computação em <b>Jundiai,São Paulo <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/></b>
+    Estudo Ciências da computação em <b>Jundiai, São Paulo</b>
     e tenho muito interesse em Front-end e tambem UI Design, atualmente estudando ReactJS, Typescript e NodeJS !</p>
  </div>
  
