@@ -1,4 +1,3 @@
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=O-Carvalho.O-Carvalho)
 
 <!-- Nome -->
  <div align="center">
