@@ -57,7 +57,7 @@
 <table align="center">
  <row>
    <td>
-     <img height='170' src='https://github-readme-stats.vercel.app/api/top-langs/?username=O-Carvalho&layout=compact&theme=vision-friendly-dark'>
+     <img height='170' src='https://github-readme-stats.vercel.app/api/top-langs/?username=O-Carvalho&layout=compact&theme=slateorange'>
    </td>
  </row>
 </table>
