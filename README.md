@@ -9,22 +9,24 @@
  
  <!-- PNG -->
  <div>
-   <img src="https://image.flaticon.com/icons/png/512/1055/1055666.png" width="185" align="right"/>
+   <img src="https://cdn-icons.flaticon.com/png/512/1066/premium/1066618.png?token=exp=1652455048~hmac=4fbde48f535a72c444a1dfb959c0c6f5" width="185" align="right"/>
  </div>
  
- <!-- rede social -->
- <div>
-  <p align="left">
-   <a href="https://www.linkedin.com/in/o-carvalho"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto:contato.perbelini@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
-  </p>
-
+<br>
  <!-- Descrição -->
   <p>Sou um admirador da tecnologia e muito dedicado em criar maneiras de facilitar aquelas tarefas do cotidiano das pessoas.<br>
     Estudo Ciências da computação em <b>Jundiai, São Paulo</b>
     e tenho muito interesse em Front-end e tambem UI Design, atualmente estudando ReactJS, Typescript e NodeJS !</p>
  </div>
  
+ <br>
+  <!-- rede social -->
+ <div>
+  <p align="left">
+   <a href="https://www.linkedin.com/in/o-carvalho"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="mailto:contato.perbelini@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
+  </p>
+
 <br>
  <!-- Meus Conhecimentos -->
  <div align="center">
