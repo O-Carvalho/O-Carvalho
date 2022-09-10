@@ -14,7 +14,7 @@
  
 <br>
  <!-- Descrição -->
-  <p>Sou um admirador e entusiasta da tecnologia!<br>
+  <p>Sou um admirador e entusiasta da tecnologia! 
     Atualmente Estudo Ciências da computação em <b>Jundiai, São Paulo </b><img src="https://freesvg.org/img/brasil_flag.png" width="15"/>,
     e também ReactJS, NodeJS e Typescript!</p>
  </div>
