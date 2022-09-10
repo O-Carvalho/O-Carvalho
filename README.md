@@ -9,7 +9,7 @@
  
  <!-- PNG -->
  <div>
-   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055672.png" width="160" align="right"/>
+   <img src="https://cdn-icons-png.flaticon.com/512/1055/1055672.png" width="165" align="right"/>
  </div>
  
 <br>
