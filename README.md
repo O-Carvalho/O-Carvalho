@@ -14,9 +14,9 @@
  
 <br>
  <!-- Descrição -->
-  <p>Sou um admirador da tecnologia e muito dedicado em criar maneiras de facilitar aquelas tarefas do cotidiano das pessoas.<br>
-    Estudo Ciências da computação em <b>Jundiai, São Paulo</b>
-    e tenho muito interesse em Front-end e tambem UI Design, atualmente estudando ReactJS, Typescript e NodeJS !</p>
+  <p>Sou um admirador e entusiasta da tecnologia!<br>
+    Atualmente Estudo Ciências da computação em <b>Jundiai, São Paulo </b><img src="https://freesvg.org/img/brasil_flag.png" width="15"/>,
+    e também ReactJS, NodeJS e Typescript!</p>
  </div>
  
  <br>
@@ -24,7 +24,7 @@
  <div>
   <p align="left">
    <a href="https://www.linkedin.com/in/o-carvalho"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto:contato.perbelini@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
+   <a href="mailto:matheus.dev23@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a> 
   </p>
 
 <br>
