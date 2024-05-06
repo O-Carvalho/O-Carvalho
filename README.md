@@ -14,9 +14,11 @@
  
 <br>
  <!-- Descrição -->
-  <p>Sou um admirador e entusiasta da tecnologia! 
-    Atualmente Estudo Ciências da computação em <b>Jundiai, São Paulo </b><img src="https://freesvg.org/img/brasil_flag.png" width="15"/>,
-    e também ReactJS, NodeJS e Typescript!</p>
+ <p>
+  I'm a web developer and studying web development at <a href="https://rocketseat.com.br/">Rocketseat.</a>
+  
+  Also studying Analysis and Systems Development at <b>Jundiai, São Paulo </b><img src="https://freesvg.org/img/brasil_flag.png" width="15"/>
+  </p>
  </div>
  
  <br>
@@ -28,33 +30,24 @@
   </p>
 
 <br>
- <!-- Meus Conhecimentos -->
- <div align="center">
-  <h1 align="center">
-   <a href="https://fontmeme.com/cuphead-font/"><img src="https://fontmeme.com/permalink/210702/aa69b64099c2494a55386cec323375ab.png" alt="cuphead-font" border="0">      </a>
-  </h1>
- </div>
  
  <br>
  <!-- Icon Tecnologias -->
- <div>
-    <p align="center"> 
+ <div align="center">
      <!-- HTML -->
      <img src="https://user-images.githubusercontent.com/35739995/122654956-2b934900-d125-11eb-94b1-58102216fa9f.png" width="40"/>&nbsp;
      <!-- CSS -->
      <img src="https://user-images.githubusercontent.com/35739995/122655003-80cf5a80-d125-11eb-9718-c0d416a29986.png" width="40"/>&nbsp;
      <!-- Javascript -->
      <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" width="40"/>&nbsp;
-     <!-- Typescript -->
-     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" width="40"/>&nbsp;
      <!-- React -->
      <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/react/react-original-wordmark.svg" width="40"/>&nbsp;
+     <!-- Typescript -->
+     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/typescript/typescript-original.svg" width="40"/>&nbsp;
      <!-- GIT -->
      <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="40"/>&nbsp;
-    </p> 
- 
 </div>
-
+  <br />
 <!-- Blocos -->
 <table align="center">
  <row>
